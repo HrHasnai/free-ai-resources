@@ -9,6 +9,21 @@
 <br/>
 <br/>
 
+### Start developing your skills for free with learning paths from LinkedIn Learning and Microsoft Learn, then practice tech skills in the GitHub Learning Lab:
+
+###  Premium courses free for One year: Microsoft & Linkedin
+
+ - Become a Software Developer:https://www.linkedin.com/learning/paths/become-a-software-developer?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+ - Become a Sales Representative: https://www.linkedin.com/learning/paths/become-a-sales-representative?trk=learning-serp_learning_search-card&upsellOrderOrigin=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+ - Become a Project Manager:https://www.linkedin.com/learning/paths/become-a-project-manager?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+ - Become an IT administrator (Prepare for CompTIA Network+ Certification):https://www.linkedin.com/learning/paths/prepare-for-comptia-network-plus-n10-007-certification?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+- Become a Customer Service Specialist:https://www.linkedin.com/learning/paths/become-a-customer-service-specialist?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+ - Become a Digital Marketing Specialist:https://www.linkedin.com/learning/paths/become-a-digital-marketing-specialist
+ - Become IT Support / Help Desk (Prepare for the CompTIA A+ Certification):https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+ - Become a Data Analyst:https://www.linkedin.com/learning/paths/become-a-data-analyst?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+ - Become a Financial Analyst:https://www.linkedin.com/learning/paths/become-a-financial-analyst?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
+ - Become a Graphic Designer: https://www.linkedin.com/learning/paths/become-a-graphic-designer
+
 ### FREE AI COURSES:
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
 - Udacity’s Intro to Artificial Intelligence - https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
@@ -56,6 +71,7 @@
 - Data Science at Gojek - https://blog.gojekengineering.com/data-science/home 
 - Intelligent Transportation Technology and Security at Didi Chuxing - http://www.didi-labs.com/
 - Amazon Science - https://www.amazon.science/
+
 
 ### DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
