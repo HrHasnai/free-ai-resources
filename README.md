@@ -11,7 +11,7 @@
 
 ### Start developing your skills for free with learning paths from LinkedIn Learning and Microsoft Learn, then practice tech skills in the GitHub Learning Lab:
 
-###  Premium courses free for One year: Microsoft & Linkedin
+###  PREMIUM COURSES FREE FOR ONE YEAR: MICROSOFT & LINKEDIN
 
  - Become a Software Developer:https://www.linkedin.com/learning/paths/become-a-software-developer?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
  - Become a Sales Representative: https://www.linkedin.com/learning/paths/become-a-sales-representative?trk=learning-serp_learning_search-card&upsellOrderOrigin=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning
